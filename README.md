@@ -15,7 +15,7 @@
 
 ## 📈 GitHub Stats
 ![Bangk3's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bangk3&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bangk3&layout=compact&theme=radical)
+![Languages Graph Stack](https://skillicons.dev/icons?i=cpp,nodejs,laravel)
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/kelvin-prasetya/)
