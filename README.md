@@ -19,7 +19,7 @@
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/kelvin-prasetya/)
-- Email: kelvin@email.com *(ganti dengan email Anda)*
+- Email: kelvinprasetya2701@gmail.com
 
 ---
 
