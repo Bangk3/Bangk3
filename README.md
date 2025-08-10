@@ -19,7 +19,6 @@
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/kelvin-prasetya/)
-- Email: kelvinprasetya2701@gmail.com
 
 ---
 
