@@ -15,10 +15,10 @@ Computer Engineering Graduate specializing in **Hardware-to-Cloud Integration**,
 
 ## 🚀 Technical Stack
 
-- **Cloud & DevOps:** Linux VPS, Docker, Proxmox, Coolify, Portainer, PostgreSQL, Redis, MinIO, Nginx[cite: 2]
-- **IoT & Embedded Systems:** ESP32 / ESP8266, C/C++, MQTT Protocol, RFID Systems, Sensor Calibration, Industrial Data Logging[cite: 2]
-- **Networking & Infrastructure:** MikroTik RouterOS, CCNAv7, LAN/WLAN Topology, VoIP, Structural ICT Wiring[cite: 2]
-- **Software Development:** Go, Rust, Node.js, Flutter, Next.js, REST APIs[cite: 2]
+- **Cloud & DevOps:** Linux VPS, Docker, Proxmox, Coolify, Portainer, PostgreSQL, Redis, MinIO, Nginx
+- **IoT & Embedded Systems:** ESP32 / ESP8266, C/C++, MQTT Protocol, RFID Systems, Sensor Calibration, Industrial Data Logging
+- **Networking & Infrastructure:** MikroTik RouterOS, CCNAv7, LAN/WLAN Topology, VoIP, Structural ICT Wiring
+- **Software Development:** Go, Rust, Node.js, Flutter, Next.js, REST APIs
 
 ---
 
@@ -33,12 +33,12 @@ Computer Engineering Graduate specializing in **Hardware-to-Cloud Integration**,
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bangk3&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="Kelvin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Bangk3&show_icons=true&theme=radical" alt="Kelvin's GitHub Stats" />
 </p>
 
 ---
 
 ## 📫 Let's Connect!
-- 🌐 **Live Portfolio:** [kelvinprasetya.visilogi.com](https://kelvinprasetya.visilogi.com)[cite: 2]
-- 💼 **LinkedIn:** [linkedin.com/in/kelvin-prasetya](https://www.linkedin.com/in/kelvin-prasetya/)[cite: 2]
-- 📧 **Email:** [kelvinprasetya2701@gmail.com](mailto:kelvinprasetya2701@gmail.com)[cite: 2]
+- 🌐 **Live Portfolio:** [kelvinprasetya.visilogi.com](https://kelvinprasetya.visilogi.com)
+- 💼 **LinkedIn:** [linkedin.com/in/kelvin-prasetya](https://www.linkedin.com/in/kelvin-prasetya/)
+- 📧 **Email:** [kelvinprasetya2701@gmail.com](mailto:kelvinprasetya2701@gmail.com)
