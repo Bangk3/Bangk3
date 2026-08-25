@@ -31,9 +31,9 @@ Computer Engineering Graduate specializing in **Hardware-to-Cloud Integration**,
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bangk3&theme=radical" alt="Kelvin's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bangk3&theme=radical&hide_border=true" alt="Kelvin's GitHub Streak" />
 </p>
 
 ---
